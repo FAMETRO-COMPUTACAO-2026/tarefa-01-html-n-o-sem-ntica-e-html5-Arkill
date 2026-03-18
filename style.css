@@ -72,9 +72,11 @@ aside {
 
 footer {
     background-color: #222;
+    bottom: 0;
     position: fixed;
     color: #fff;
     text-align: center;
     padding: 10px;
     margin-top: 20px;
+    width: 100%;
 }
